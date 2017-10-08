@@ -1,0 +1,32 @@
+
+h1{
+  font-size: 100px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: Khaki;
+  text-align: center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+}
+
+.title{
+  font-size: 32px;
+  font-weight: bold;
+  font-family: Helvetice;
+  color: White;
+}
+#bruches .title{
+  background-color: mediumspringgreen;
+}
+#frames .title{
+  background-color: lightcoral;
+}
+
+#paint .title{
+  background-color: skyblue;
+}
+
+.price{
+  font-family: Helvetice;
+  font-weight: bold;
+  color: blue;
+}
